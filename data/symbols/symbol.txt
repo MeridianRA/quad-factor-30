@@ -1,0 +1,5 @@
+Nifty200 Value 30
+Nifty200 Quality 30
+Nifty200 Momentum 30
+Nifty100 Low Volatility 30
+Nifty 50
